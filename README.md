@@ -35,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-itb&show_icons=true&locale=en" alt="shreyas-itb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-itb&" alt="shreyas-itb" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-ITB" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyas-ITB&show_icons=true" />
