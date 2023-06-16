@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shreyas-ITB/Shreyas-ITB/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Shreyas-ITB/Shreyas-ITB/output/snake.svg](https://raw.githubusercontent.com/Shreyas-ITB/Shreyas-ITB/main/output/snake.svg)https://raw.githubusercontent.com/Shreyas-ITB/Shreyas-ITB/main/output/snake.svg" alt="Snake animation" />
 
 ###
