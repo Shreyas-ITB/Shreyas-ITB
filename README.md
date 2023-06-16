@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/7pku5s"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/97907864?s=400&u=317779bb0b6ee19aac31a46ba93f0e3a2623d7ad&v=4"  />
 
 ###
 
